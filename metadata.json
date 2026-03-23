@@ -1,0 +1,5 @@
+{
+  "name": "智能 Markdown 整理器",
+  "description": "使用 Gemini AI 自动将文本和图片转换为结构化的 Markdown 格式。",
+  "requestFramePermissions": []
+}
